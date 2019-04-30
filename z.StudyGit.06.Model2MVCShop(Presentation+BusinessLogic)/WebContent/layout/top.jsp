@@ -33,6 +33,7 @@
 	          <td width="56">
 		          <c:if test="${ ! empty user }">
 		            	<a href="/logout.do" target="_parent">logout</a>  
+		            	Ãß°¡
 		           </c:if>
 	          </td>
 	        </tr>
