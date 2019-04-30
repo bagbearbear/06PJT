@@ -33,7 +33,7 @@
 	          <td width="56">
 		          <c:if test="${ ! empty user }">
 		            	<a href="/logout.do" target="_parent">logout</a>  
-		            	추가
+		            	추가cnrk
 		           </c:if>
 	          </td>
 	        </tr>
